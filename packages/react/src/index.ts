@@ -1,3 +1,3 @@
-import { colors } from "@ign-ui/tokens";
+import { colors } from '@ign-ui/tokens'
 
-console.log(colors);
+console.log(colors)
