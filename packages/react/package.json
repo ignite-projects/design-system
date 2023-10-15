@@ -1,5 +1,5 @@
 {
-  "name": "@ign-ui/tokens",
+  "name": "@ign-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@ign-ui/tokens": "*",
     "@ign-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"

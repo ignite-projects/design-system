@@ -13,7 +13,7 @@ var colors = {
   ignite300: "#00B37E",
   ignite500: "#00875F",
   ignite700: "#015F43",
-  ignite900: "#00291D",
+  ignite900: "#00291D"
 };
 
 // src/space.ts
@@ -32,7 +32,7 @@ var space = {
   20: "5rem",
   40: "10rem",
   64: "16rem",
-  80: "20rem",
+  80: "20rem"
 };
 
 // src/radii.ts
@@ -42,13 +42,13 @@ var radii = {
   sm: "6px",
   md: "8px",
   lg: "16px",
-  full: "99999px",
+  full: "99999px"
 };
 
 // src/fonts.ts
 var fonts = {
   default: "Roboto, sans-serif",
-  code: "monospace",
+  code: "monospace"
 };
 
 // src/font-sizes.ts
@@ -65,14 +65,14 @@ var fontSizes = {
   "6xl": "3rem",
   "7xl": "4rem",
   "8xl": "4.5rem",
-  "9xl": "6rem",
+  "9xl": "6rem"
 };
 
 // src/font-weights.ts
 var fontWeights = {
   regular: "400",
   medium: "500",
-  bold: "700",
+  bold: "700"
 };
 
 // src/line-heights.ts
@@ -80,6 +80,14 @@ var lineHeights = {
   shorter: "125%",
   short: "140%",
   base: "160%",
-  tall: "180%",
+  tall: "180%"
 };
-export { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space };
+export {
+  colors,
+  fontSizes,
+  fontWeights,
+  fonts,
+  lineHeights,
+  radii,
+  space
+};
