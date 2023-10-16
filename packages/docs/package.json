@@ -13,7 +13,10 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@ign-ui/react": "*",
+    "@ign-ui/tokens": "*",
+    "@ign-ui/eslint-config": "*"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.4.6",
