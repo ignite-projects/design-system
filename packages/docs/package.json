@@ -12,11 +12,12 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@ign-ui/eslint-config": "*",
     "@ign-ui/react": "*",
     "@ign-ui/tokens": "*",
-    "@ign-ui/eslint-config": "*"
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.4.6",
