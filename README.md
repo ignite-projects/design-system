@@ -2,7 +2,7 @@ Components
 
 - [ ] Text
 - [ ] Heading
-- [ ] Box
+- [x] Box
 - [ ] Button
 - [ ] TextInput
 - [ ] TextArea
