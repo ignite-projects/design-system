@@ -3,7 +3,7 @@ Components
 - [ ] Text
 - [ ] Heading
 - [ ] Box
-- [x] Button
+- [ ] Button
 - [ ] TextInput
 - [ ] TextArea
 - [ ] Checkbox
