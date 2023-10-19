@@ -5,7 +5,14 @@ export default {
   title: "Data display/Avatar",
   component: Avatar,
   args: {
-    src: 'https://github.com/robsonnatanael.png',
+    src: "https://github.com/robsonnatanael.png",
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>;
 
