@@ -1,0 +1,10 @@
+{
+  "name": "@ign-ui/eslint-config",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "eslint": "^8.51.0"
+  }
+}

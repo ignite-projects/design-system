@@ -1,0 +1,4 @@
+{
+  "extends": "@ign-ui/ts-config/react.json",
+  "include": ["src"]
+}
